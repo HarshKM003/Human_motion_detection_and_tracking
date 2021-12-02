@@ -5,5 +5,5 @@ to right counter and if the person is going right to the reference line it will 
 
 Algorithm- YOLOV3 and Centoid tracker
 
-Weight and config files can be downloaded from here:
+Weights, classes and config files can be downloaded from here:
 https://drive.google.com/drive/folders/1AhOM31dy8jfLqQ1CcVcXJgWmorG_TzjU
